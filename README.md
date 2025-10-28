@@ -1,5 +1,3 @@
-Here you go, Adrián — a complete `README.md` file ready to copy and paste into your project:
-
 ```markdown
 # Flask Portfolio Website
 
