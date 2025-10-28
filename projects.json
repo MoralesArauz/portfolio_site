@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Movie Explorer",
+    "description": "A Flask app that integrates with the TMDB API to search, view, and edit movie data. Includes dynamic routing, form validation, and secure CKEditor integration.",
+    "image": "images/movie_explorer.jpg",
+    "link": "#"
+  },
+  {
+    "title": "Language Trends Visualizer",
+    "description": "Jupyter Notebook project using pandas and matplotlib to analyze and visualize programming language popularity over time. Includes interactive charts and CSV import.",
+    "image": "images/language_trends.jpg",
+    "link": "#"
+  }
+]
