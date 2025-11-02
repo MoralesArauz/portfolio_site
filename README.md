@@ -1,4 +1,3 @@
-```markdown
 # Flask Portfolio Website
 
 This is a personal portfolio website built with Flask to showcase my Python projects, web development skills, and data visualizations. It includes a dynamic project gallery, a contact form with email integration, and a clean Bootstrap-based design.
