@@ -67,6 +67,3 @@ portfolio_site/
 ## 📬 Contact
 
 Feel free to reach out via the contact form on the site or connect with me on [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-morales-a951b5124/) or [GitHub](https://github.com/MoralesArauz).
-```
-
-Let me know if you want to add a screenshot, deployment instructions, or badges for Python version and license.
